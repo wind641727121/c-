@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1522981153 source:c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\guest_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"room.h"
+
+1523164200 c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\room.h
+
+1522983479 source:c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\main.c
+	"quanjv.h"
+	<windows.h>
+
+1522983445 c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\quanjv.h
+
+1522981153 source:c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\muse5.2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"room.h"
+	"common.h"
+	"quanjv.h"
+
+1522980145 c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\common.h
+
+1522980324 source:c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\shape.c
+	<stdio.h>
+	<stdlib.h>
+	"room.h"
+
+1523193306 source:c:\users\administrator\desktop\计算机技能训练源程序 - 20174470 - 酒店预订管理\酒店预订管理\function4.0.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+	<string.h>
+	"room.h"
+
